@@ -15,6 +15,6 @@ public class TestAll {
 		int resultCount = methode.count(66, 77, 4, 6);
 		assertEquals(153, resultCount);
 		int resultCalculate = methode.calculate(8, 6);
-		assertEquals(47, resultCalculate);
+		assertEquals(48, resultCalculate);
 	}
 }
