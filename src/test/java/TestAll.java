@@ -4,7 +4,7 @@ import org.junit.Test;
 
 
 public class TestAll {
-	Meth56 methode = new Meth56();
+	ApplicationDev methode = new ApplicationDev();
 	@Test
 	public void testString() {
 		
